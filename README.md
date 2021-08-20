@@ -9,11 +9,14 @@ Requerimientos:
   1.1 Mysql dep: npm i mysql
   1.2 Express & Nodemon Devdep: npm i -D express nodemon
   1.3 Body Parser: npm i body-parser
+  
 2. Mysql -- DB
   https://dev.mysql.com/downloads/installer/
   * Crear usuario a utilizar en app.js. No utilizar root!
+  
 3. Postman app -- testeo de endpoints
   https://www.postman.com/downloads/
+  
 4. Assets -- CDN para el front
   Vue: https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js
   Vue Resources: https://cdn.jsdelivr.net/npm/vue-resource@1.5.3
